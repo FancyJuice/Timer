@@ -8,11 +8,12 @@ release cods for application of Timer
 run UI.py directly
 
 ## How to deploy:
-``` python
+``` shell
 pyinstaller -D -w -i logo.ico -n Timer UI.py
 ```
 ## Packages you need:
-``` python
-import wx
-from PIL import Image
+``` shell
+pip install wx
+pip install PIL
+pip install pyinstaller
 ```
