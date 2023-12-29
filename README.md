@@ -1,7 +1,7 @@
 # Timer
 release cods for application of Timer
-![效果展示](/pic/display.png)
 
+![效果展示](/pic/display.png)
 
 
 ## How to test:
